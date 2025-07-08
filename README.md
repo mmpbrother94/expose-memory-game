@@ -19,7 +19,7 @@ Find matching digits hidden behind the cards in as few chances as possible. You 
 |--------------|----------|
 | ![Start](start.png) | ![Gameplay](gameplay.png) |
 
-> *(Add your real screenshots with correct image file names inside the repo)*
+
 
 ## 🛠️ Technologies Used
 
